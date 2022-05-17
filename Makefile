@@ -12,3 +12,6 @@ publish: #публикация вне PyPi
 
 package-install: #установка проекта
 	python3 -m pip install --user dist/*.whl
+
+lint: #запускает проверку кода линтером
+	poetry run flake8 brain_games
