@@ -4,4 +4,6 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - run: make lint
+      - name: Run linter and pytest
+        run: |
+          make lint
