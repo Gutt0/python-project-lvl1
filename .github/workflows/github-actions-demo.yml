@@ -5,4 +5,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Run linter and pytest
-        run: make -f ./pyhton-project-lvl1/Makefile lint
+        run: make -f ./python-project-lvl1/Makefile lint
