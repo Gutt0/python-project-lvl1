@@ -6,6 +6,8 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Install dependencies
-        run: make install
+        run: |
+          pip install poetry
+          make install
       - name: Run linter and pytest
         run: make lint
