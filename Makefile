@@ -15,3 +15,6 @@ package-install: #установка проекта
 
 lint: #запускает проверку кода линтером
 	poetry run flake8 brain_games
+
+install-sciinema: #устанавливает скринрекордер
+	sudo pip3 install --user asciinema
