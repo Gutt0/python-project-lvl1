@@ -3,4 +3,4 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/maintainability)](https://codeclimate.com/github/codeclimate/codeclimate/maintainability)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/test_coverage)](https://codeclimate.com/github/codeclimate/codeclimate/test_coverage)
 ![example workflow](https://github.com/Gutt0/python-project-lvl1/actions/workflows/github-actions-demo.yml/badge.svg)
-
+[![asciicast](https://asciinema.org/a/85iajoxYoXHUdjP0r55jRXS9E.svg)](https://asciinema.org/a/85iajoxYoXHUdjP0r55jRXS9E)

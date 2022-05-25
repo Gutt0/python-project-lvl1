@@ -41,5 +41,5 @@ def count_user_reply():
         else: 
             count = 1
             sys.stdout.write("'{0}' is wrong answer ;(. Correct answer was '{1}'.\nLet's try again, {2}!\n".format(user_reply, correct_answer, name))
-    sys.stdout.write('Congratulations, {0}\n'.format(name))
+    sys.stdout.write('Congratulations, {0}!\n'.format(name))
 
