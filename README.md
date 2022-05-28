@@ -9,3 +9,6 @@
 
 ## Задание 6
 [![asciicast](https://asciinema.org/a/JSL890ov4LTVckiyOCV7Uf1fX.svg)](https://asciinema.org/a/JSL890ov4LTVckiyOCV7Uf1fX)
+
+## Задание 7
+[![asciicast](https://asciinema.org/a/zuQIRRUJ9PXT3DGpy47DqMhsx.svg)](https://asciinema.org/a/zuQIRRUJ9PXT3DGpy47DqMhsx)
