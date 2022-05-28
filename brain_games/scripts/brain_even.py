@@ -1,20 +1,13 @@
 #!/usr/bin/env python
 """Script for even."""
 
-import sys
-
-from brain_games import even
-
-
-def welcome():
-    """Print welcome message."""
-    sys.stdout.write('Welcome to the Brain Games!\n')
+from brain_games.common_logic import game_engine
+from brain_games.games import even
 
 
 def main():
     """Output main."""
-    welcome()
-    even.count_user_reply()
+    game_engine(even)
 
 
 if __name__ == '__main__':

@@ -1,20 +1,13 @@
 #!/usr/bin/env python
 """Script for calc."""
 
-import sys
-
+from brain_games.common_logic import game_engine
 from brain_games.games import calc
-
-
-def welcome():
-    """Print welcome message."""
-    sys.stdout.write('Welcome to the Brain Games!\n')
 
 
 def main():
     """Output main."""
-    welcome()
-    calc.count_user_reply()
+    game_engine(calc)
 
 
 if __name__ == '__main__':
