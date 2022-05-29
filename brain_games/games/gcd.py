@@ -1,6 +1,5 @@
 """Game to find gcd."""
 import sys
-from random import choice
 from math import gcd
 
 from brain_games.common_logic import rundom_number

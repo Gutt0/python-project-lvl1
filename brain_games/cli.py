@@ -1,4 +1,4 @@
-"""This script welcome the user and ask for his name."""
+"""This module welcome the user and ask for his name."""
 import sys
 
 import prompt

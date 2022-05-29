@@ -10,8 +10,8 @@ def correct_answer():
     """Return result of the question."""
     run_num = rundom_number()
     if run_num % 2 == 0:
-        result = "yes"
+        result = 'yes'
     else:
-        result = "no"
+        result = 'no'
     sys.stdout.write('Question: {0}\n'.format(run_num))
     return result
