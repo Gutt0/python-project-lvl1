@@ -12,3 +12,6 @@
 
 ## Задание 7
 [![asciicast](https://asciinema.org/a/zuQIRRUJ9PXT3DGpy47DqMhsx.svg)](https://asciinema.org/a/zuQIRRUJ9PXT3DGpy47DqMhsx)
+
+## Задание 8
+[![asciicast](https://asciinema.org/a/5jfkRAqX1qeP2lbTJk3OUEJu6.svg)](https://asciinema.org/a/5jfkRAqX1qeP2lbTJk3OUEJu6)
