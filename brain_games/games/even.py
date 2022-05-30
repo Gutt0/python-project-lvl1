@@ -7,11 +7,18 @@ GAME_DESCRIPTION = 'Answer "yes" if the number is even, otherwise answer "no".'
 
 
 def correct_answer():
-    """Return result of the question."""
+    """Return result of the question.
+
+    Args:
+    correct: correct answer
+
+    Returns:
+        str
+    """
     run_num = rundom_number()
     if run_num % 2 == 0:
-        result = 'yes'
+        correct = 'yes'
     else:
-        result = 'no'
+        correct = 'no'
     sys.stdout.write('Question: {0}\n'.format(run_num))
-    return result
+    return correct
