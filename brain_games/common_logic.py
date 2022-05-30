@@ -50,7 +50,7 @@ def game_engine(game):
     name = username()
     sys.stdout.write('{0}\n'.format(game.GAME_DESCRIPTION))
     count = 1
-    for i in range(INDEX):  # collecting correct answers
+    for _i in range(INDEX):  # noqa: WPS122, WPS111
         right_num = game.correct_answer()
         user_reply = prompt.string('Your answer: ')
         if user_reply == right_num:
