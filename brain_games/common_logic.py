@@ -50,7 +50,7 @@ def game_engine(game):
     name = username()
     sys.stdout.write('{0}\n'.format(game.GAME_DESCRIPTION))
     count = 1
-    while count <= INDEX:  # collecting correct answers
+    for i in range(INDEX):  # collecting correct answers
         right_num = game.correct_answer()
         user_reply = prompt.string('Your answer: ')
         if user_reply == right_num:
@@ -59,4 +59,5 @@ def game_engine(game):
         else:
             count = 1
             sys.stdout.write("'{0}' is wrong answer ;(. Correct answer was '{1}'.\nLet's try again, {2}!\n".format(user_reply, right_num, name))  # noqa: E501
+            return
     sys.stdout.write('Congratulations, {0}!\n'.format(name))
