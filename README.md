@@ -5,17 +5,16 @@
 ![example workflow](https://github.com/Gutt0/python-project-lvl1/actions/workflows/github-actions-demo.yml/badge.svg)
 
 ## Задание 5
-[![asciicast](https://asciinema.org/a/85iajoxYoXHUdjP0r55jRXS9E.svg)](https://asciinema.org/a/85iajoxYoXHUdjP0r55jRXS9E)
+[![asciicast](https://asciinema.org/a/jdrum1RX48vJ3sME80HCxO4ag.svg)](https://asciinema.org/a/jdrum1RX48vJ3sME80HCxO4ag)
 
 ## Задание 6
-[![asciicast](https://asciinema.org/a/JSL890ov4LTVckiyOCV7Uf1fX.svg)](https://asciinema.org/a/JSL890ov4LTVckiyOCV7Uf1fX)
+[![asciicast](https://asciinema.org/a/mYvMBZUqM7lc6h3VJojRIdhzd.svg)](https://asciinema.org/a/mYvMBZUqM7lc6h3VJojRIdhzd)
 
 ## Задание 7
-[![asciicast](https://asciinema.org/a/zuQIRRUJ9PXT3DGpy47DqMhsx.svg)](https://asciinema.org/a/zuQIRRUJ9PXT3DGpy47DqMhsx)
+[![asciicast](https://asciinema.org/a/ydSRhvOvPoxGLZ0083h3OB3Ko.svg)](https://asciinema.org/a/ydSRhvOvPoxGLZ0083h3OB3Ko)
 
 ## Задание 8
-[![asciicast](https://asciinema.org/a/5jfkRAqX1qeP2lbTJk3OUEJu6.svg)](https://asciinema.org/a/5jfkRAqX1qeP2lbTJk3OUEJu6)
+[![asciicast](https://asciinema.org/a/2GBUBUNNvgbLKHyAAG04hJrqy.svg)](https://asciinema.org/a/2GBUBUNNvgbLKHyAAG04hJrqy)
 
 ## Задание 9
-[![asciicast](https://asciinema.org/a/EhbYsStf2XkaDaE9Y5FPm6ZHq.svg)](https://asciinema.org/a/EhbYsStf2XkaDaE9Y5FPm6ZHq)
-
+[![asciicast](https://asciinema.org/a/ik7TNBcdcUHfnWvlHxRM4b3sb.svg)](https://asciinema.org/a/ik7TNBcdcUHfnWvlHxRM4b3sb)
