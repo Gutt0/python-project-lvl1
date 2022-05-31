@@ -1,5 +1,6 @@
 """Game to find gcd."""
 import sys
+from random import randint
 
 from brain_games.common_logic import rundom_number
 
@@ -16,11 +17,8 @@ def correct_answer():
         str
     """
     common_difference = rundom_number()
-    start_num = rundom_number() + 10
-    length_of_the_list = 1
-    while length_of_the_list < 5:
-        length_of_the_list = rundom_number()
-
+    start_num = rundom_number()
+    length_of_the_list = randint(5, 10)
     list = []  # noqa: WPS125
     for _i in range(length_of_the_list):  # noqa: WPS122, WPS111
         list.append(start_num)
